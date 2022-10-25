@@ -1,0 +1,104 @@
+{
+    "listarPokemons":[
+        {
+            "id":1,
+            "name":"Pikachu",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/25.png",
+            "describe":"Pikachu es un Pokémon de tipo eléctrico introducido en la primera generación",
+            "type":"Electric",
+            "evolution":"Raichu",
+            "height":4,
+            "weight":60
+        },
+        {
+            "id":2,
+            "name":"Bulbasaur",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/1.png",
+            "describe":"Bulbasaur es un Pokémon de tipo planta/veneno introducido en la primera generación.",
+            "type":"Grass",
+            "evolution":"Ivysaur",
+            "height":7,
+            "weight":69
+        },
+        {
+            "id":3,
+            "name":"Charmander",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/4.png",
+            "describe":"Charmander es un pequeño lagarto bípedo. Sus características de fuego son resaltadas por su color de piel anaranjado y su cola con la punta envuelta en llamas.",
+            "type":"Fire",
+            "evolution":"Charmeleon",
+            "height":6,
+            "weight":85
+        },
+        {
+            "id":4,
+            "name":"Caterpie",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/10.png",
+            "describe":"Caterpie es un Pokémon de tipo bicho introducido en la primera generación",
+            "type":"Bug",
+            "evolution":"Metapod",
+            "height":3,
+            "weight":29
+        },
+        {
+            "id":5,
+            "name":"Weedle",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/13.png",
+            "describe":"Weedle es una forma estilizada del gorgojo. Este Pokémon insecto tiene la forma de un gusano con un cuerno",
+            "type":"Bug",
+            "evolution":"Kakuna",
+            "height":3,
+            "weight":32
+        },
+        {
+            "id":6,
+            "name":"Pidgey",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/16.png",
+            "describe":"Pidgey es un ave Pokémon de color marrón y crema, y con un pequeño pico y patas fuertes",
+            "type":"Normal",
+            "evolution":"Pidgeotto",
+            "height":3,
+            "weight":18
+        },
+        {
+            "id":7,
+            "name":"Rattata",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/19.png",
+            "describe":"Rattata es cauto como él solo. Hasta cuando duerme mueve las orejas para oír todo lo que pueda suponer un peligro",
+            "type":"Normal",
+            "evolution":"Raticate",
+            "height":3,
+            "weight":35
+        },
+        {
+            "id":"8",
+            "name":"Spearow",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/21.png",
+            "describe":"Muy protector de su territorio, mueve sus cortas alas sin descanso para lanzarse a toda velocidad",
+            "type":"Normal",
+            "evolution":"Fearow",
+            "height":3,
+            "weight":20
+        },
+        {
+            "id":9,
+            "name":"Ekans",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/23.png",
+            "describe":"Es muy silencioso y sigiloso. Come huevos de pájaros como los de Pidgey y Spearow. Ekans se enrosca para descansar",
+            "type":"Poison",
+            "evolution":"Arbok",
+            "height":20,
+            "weight":69
+        },
+        {
+            "id":10,
+            "name":"Mewto",
+            "image":"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/150.png",
+            "describe":"Mewtwo es una criatura con una postura humanoide pero con muchos rasgos físicos felinos",
+            "type":"Psychic",
+            "evolution":"no tiene",
+            "height":20,
+            "weight":1220
+        }
+    ]
+}
